@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e67ed022c38b6fa52436fdd5bd89fc47f0682b64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_6dd343eb9e5ffb930d03d78d31327281c15e4d20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="55a9e481c8742b62a9707c309faf31cd078914b7">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8a289b9eb29addd12e0c0c8283cd2869700c4a8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0fb082a021dd18829d5a3e83428b8e51e3fec2f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_01f41d6e16a7411a0463d8fa0f13295a945ea589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5f26d80a7d0bdf4db0798cf610ce490990406f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5fc1e4ae3a790ebfb6203ab385d861e74022c15f">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bce1a6d49d972c1a4c837fa58b0ed6d3ef447ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_93a414557364d63cb469e3edbebae05ffc690ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1aad4c840049672f2814532738b8f2cc915006ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_cc5b829af7e6169f8cc9fc3b129f4d4b192fca23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_687eb1da9e70cbb635c60eda458eb9a665329db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_095f4a2e4bc36ac2a469e8099c9a2ad4beeee85e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_aa5dc90edab057337020a58b22fc5901795f6089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_abe6bbdf63e7e3195ba3d2d6f893f767ea2f4fc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_948f4dc9bf20a1f39afb75ae82089c96e0bf7be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ecc4be2703fcd4e04fcbcd5c7d15c9c877b3cd4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/vinitdeliwala/IBM/Developer/HelloThere2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_af418ab0522949fed8d1908e57a53d7e897c0409/classes.dex" />
+    </item>
+
+</items>
